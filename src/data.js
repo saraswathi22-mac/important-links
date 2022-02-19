@@ -68,6 +68,145 @@ export const Data = [
         url: "https://blog.bitsrc.io/5-image-loading-best-practices-for-websites-b3e6019e0691",
         author: "Nethmi Wijesinghe",
         created_on: "Aug 10, 2021"
-    }
-
+    },
+    {
+        id: "11",
+        title: "The CSS Handbook: a handy guide to CSS for developers",
+        url: "https://medium.com/free-code-camp/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11",
+        author: "Flavio Copes",
+        created_on: "Apr 24, 2019"
+    },
+    {
+        id: "12",
+        title: "List of important OOPs concepts for SDE interviews",
+        url: "https://medium.com/@srushtisangawar25/list-of-important-oops-concepts-for-sde-interviews-2e1833a03eb8",
+        author: "Srushti Sangawar",
+        created_on: "Aug 7, 2021"
+    },
+    {
+        id: "13",
+        title: "Most frequent ReactJs Questions and Answers",
+        url: "https://riyajain.hashnode.dev/most-frequent-reactjs-questions-and-answers",
+        author: "Riya Jain",
+        created_on: "Jun 1, 2021"
+    },
+    {
+        id: "14",
+        title: "TypeScript and React: Components",
+        url: "https://fettblog.eu/typescript-react/components/#functional-components",
+        author: "@ddprrt",
+        created_on: ""
+    },
+    {
+        id: "15",
+        title: "How to Use Context API with Hooks Efficiently While Avoiding Performance Bottlenecks",
+        url: "https://www.telerik.com/blogs/how-to-use-context-api-with-hooks-efficiently-while-avoiding-performance-bottlenecks",
+        author: "Thomas Findlay",
+        created_on: "October 25, 2019"
+    },
+    {
+        id: "16",
+        title: "Responsive CheatSheet",
+        url: "https://davidamedina619.medium.com/responsive-cheatsheet-9da439d0ae0c",
+        author: "David Medina",
+        created_on: "Aug 30, 2021"
+    },
+    {
+        id: "17",
+        title: "Convert a React Component to TypeScript",
+        url: "https://blog.echobind.com/convert-a-react-component-to-typescript-b0ce645a4869",
+        author: "Joe Previte",
+        created_on: "Jan 7, 2020"
+    },
+    {
+        id: "18",
+        title: "JavaScript Web API’s That Every Developer Should Know",
+        url: "https://attractiveaurora.medium.com/javascript-web-apis-that-every-developer-should-know-d7e6ff041602",
+        author: "Attractive Aurora",
+        created_on: "Sep 8, 2021"
+    },
+    {
+        id: "19",
+        title: "Passing Data From Child to Parent Component in TypeScript React",
+        url: "https://javascript.plainenglish.io/passing-data-from-child-to-parent-component-in-typescript-react-92ab6d03ceb1",
+        author: "Ndukwe Armstrong",
+        created_on: "May 1, 2021"
+    },
+    {
+        id: "20",
+        title: "SCSS /SASS- Syntactically Awesome Style Sheets that are actually awesome",
+        url: "https://r-fraktas.medium.com/scss-sass-syntactically-awesome-style-sheets-that-are-actually-awesome-91103f35c4cf",
+        author: "Raquel Fraktas",
+        created_on: "Jan 4, 2022"
+    },
+    {
+        id: "21",
+        title: "Css Tips & Tricks",
+        url: "https://aminalaabidi.medium.com/css-tips-tricks-bf8f6812077f",
+        author: "Rajat S",
+        created_on: "Aug 1, 2021"
+    },
+    {
+        id: "22",
+        title: "Effective React Query Keys",
+        url: "https://tkdodo.eu/blog/effective-react-query-keys",
+        author: "TkDodo",
+        created_on: "Jun 6, 2021"
+    },
+    {
+        id: "23",
+        title: "Philippeneveu",
+        url: "https://philippeneveu.com/",
+        author: "TkDodo",
+        created_on: "Jun 6, 2021"
+    },
+    {
+        id: "24",
+        title: "Cherupil",
+        url: "https://cherupil.com/resume/",
+        author: "TkDodo",
+        created_on: "Jun 6, 2021"
+    },
+    {
+        id: "25",
+        title: "Jhey",
+        url: "https://jhey.dev/",
+        author: "TkDodo",
+        created_on: "Jun 6, 2021"
+    },
+    {
+        id: "26",
+        title: "WorldCloud Generator",
+        url: "https://monkeylearn.com/word-cloud/",
+        author: "",
+        created_on: ""
+    },
+    {
+        id: "27",
+        title: "React TypeScript: Basics and Best Practices",
+        url: "https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2",
+        author: "",
+        created_on: ""
+    },
+    {
+        id: "28",
+        title: "Daily UI",
+        url: "https://www.dailyui.co/",
+        author: "",
+        created_on: ""
+    },
+    {
+        id: "29",
+        title: "dribble",
+        url: "https://dribbble.com/",
+        author: "",
+        created_on: ""
+    },
+    {
+        id: "30",
+        title: "How do free apps make money in 2022 [ 10 Proven Strategies]",
+        url: "https://medium.com/@deliverableservices/how-do-free-apps-make-money-in-2022-10-proven-strategies-716abb87d73b",
+        author: "Deliverable Services",
+        created_on: "Dec 13, 2021"
+    },
 ]
